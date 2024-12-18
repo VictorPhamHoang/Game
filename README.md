@@ -1,4 +1,4 @@
-I – Installation Instructions
+# I – Installation Instructions
 The game folder to download consists of three files:
 
 The Python script,
@@ -10,7 +10,7 @@ Open a command terminal, navigate to the game folder directory using the cd comm
 
 It is not necessary to install SQLite unless you want to view the database data. However, database management is handled using Python’s sqlite3 module.
 
-II – Game Explanation
+# II – Game Explanation
 Game Rules:
 The user plays as a restaurant owner who has taken out a loan of €1150 and must repay it within four months.
 
