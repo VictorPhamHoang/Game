@@ -11,7 +11,7 @@ Open a command terminal, navigate to the game folder directory using the cd comm
 It is not necessary to install SQLite unless you want to view the database data. However, database management is handled using Python’s sqlite3 module.
 
 # II – Game Explanation
-Game Rules:
+
 The user plays as a restaurant owner who has taken out a loan of €1150 and must repay it within four months.
 
 The restaurant has only one dish and one employee. The cost of resources (electricity, raw materials, etc.) varies depending on the month.
